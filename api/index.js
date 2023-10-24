@@ -52,5 +52,5 @@ app.get("/reservas",(req, res)=>{
 })
 app.listen (8800, ()=>{
     connect()
-    console.log('Conectado al backend!!!jjj')
+    console.log('Conectado al backend!!!')
 })
